@@ -28,8 +28,10 @@ But: Grâce à une inscription, l'utilisateur pourra créer une discussion avec 
 Dans l'espace de discussion, l'utilisateur peut parler et les autres utilisateurs peuvent lui répondre, tout simplement.
 
 Etapes: - créer une base de donnée (couch db)(romain)
-        - faire la présentation du site (bootstrap + vue.js)
+        - faire la forme et la présentation du site (bootstrap + vue.js)(matias / louis)
         - ...
         - tester une discussion
+
+Dates : les dates ne sont pas fixées, mais la date butoire est : 03.01.2018. Ensuite il sera question de gérer les derniers problèmes et réglages.
 
         A COMPLETER ...
