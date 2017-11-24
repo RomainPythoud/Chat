@@ -35,3 +35,4 @@ Etapes: - créer une base de donnée (couch db)(romain)
 Dates : les dates ne sont pas fixées, mais la date butoire est : 03.01.2018. Ensuite il sera question de gérer les derniers problèmes et réglages.
 
         A COMPLETER ...
+        
